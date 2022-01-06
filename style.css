@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.side-padding{
+    padding: 30px 8%;
+}
+
+/* header section  */
+.header-section {
+    display: flex;
+}
+
+.stay-color {
+    color: chocolate;
+
+}
+.for-p{
+    font-size: 17px;
+    color: rgba(56, 56, 56, 0.867);
+    margin-top: 20px;
+    margin-right: 50px;
+
+}
+.for-smallp{
+    font-size: 14px;
+    color: rgba(56, 56, 56, 0.867);
+    margin-top: 20px;
+    
+}
+.header-text {
+    padding-top: 10%;
+    width: 50%;
+    
+}
+
+.header-image {
+    width: 40%;
+    padding:5%;
+}
+
+.header-image img {
+    width: 100%;
+}
+.stay-foucuse h1{
+    padding-left: 15px;
+}
+.stay-foucuse{
+    padding: 2%;
+    font-size: 28px;
+    font-family: 'Lora', serif;
+    border-left: 5px solid  red;
+    
+   
+}
+/* explor-button er sob kaj  */
+.explor-button{
+    font-size: 15px;
+    color:white;
+    border: none;
+    background-color: tomato;
+    padding: 12px 30px;
+    border-radius: 7px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+/* my misson part start hear */
+.my-misson-top h1{padding-left: 1%;}
+.my-misson-top{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    font-size: 28px;
+    
+
+}
+.misson-conten{
+    display: flex;
+  
+}
+.misson-item{
+    width: 30%;
+    background-color: rgba(244, 244, 255, 0.999);
+    border-radius: 25px;
+    padding: 30px 25px;
+    margin: 30px 15px;
+
+}
+.item-img img{
+    width: 50%;
+}
+.develop{
+    display: flex;
+   
+}
+.develop-img{
+    width: 35%;
+    border-radius: 30px;
+    margin-right: 42px;
+    
+}
+.develop-img img{
+    width: 100%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+
+
+
+}
+.develop-content p{
+    margin-top: 30px;
+}
+.develop-content h1{
+    font-size: 32px;
+    font-weight: 900;
+    
+}
+.develop-content{
+    width: 60%;
+    
+    padding: 25px 0;
+}
+/* global part */
+.global-img{
+    margin-left: 45px;
+}
+.global{
+    margin: 40px 0;
+}
+/* footer part  */
+footer{
+    background-color: black;
+}
+.fm{
+    color: wheat;
+    font-family: 'Moon Dance';
+}
+.f22{
+    color: tomato;
+    font-family: 'Moon Dance';
+    margin-left: 5px;
+}
+.footer-heading{
+display: flex;
+justify-content: center;
+padding-top: 20px;
+font-size: 25px;
+}
+.footer-cont{
+    color: rgb(187, 187, 255);
+    font-size: 12px;
+   text-align: center;
+   padding: 10px 0;
+}
